@@ -1,3 +1,36 @@
-Una coleccion de iconos que hice hace un tiempo
+![License] (https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=for-the-badge)
 
-puedes usarlos si quieres
+A small repository with some icons i made
+
+## Linux distributions
+
+- Arch Linux
+- Bazzite
+- Debian
+- Devuan
+- Endeavour os
+- Fedora
+- Linux Mint
+- NixOS
+- OpenSUSE (Leap and Tumbleweed)
+- Solus
+- Ubuntu
+- Vanilla OS
+- Void Linux (With and without text)
+- Zorin OS
+
+## Desktop Environments and Window Managers
+
+- Gnome
+- Hyprland
+- Mate
+- KDE Plasma (positive and negative)
+- XFCE
+
+## Operating Systems
+
+- Haiku
+- Linux
+- MacOS
+- ReactOS
+- Windows
