@@ -6,7 +6,7 @@ A small repository with some icons i made
 - Bazzite
 - Debian
 - Devuan
-- Endeavour os
+- Endeavour OS
 - Fedora
 - Linux Mint
 - NixOS
